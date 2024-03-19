@@ -13,7 +13,7 @@ email=igor.souzavigor@gmail.com
 about=O plugin proposto visa realizar o processamento de dados relacionados à fertilidade do solo, aplicando o algoritmo de krigagem ordinária de acordo com os padrões estabelecidos pela Terram Soluções Agronômicas.
 
 tracker=http://bugs
-repository=https://github.com/TerramSolucoesAgronomica/plugins/processamento_dados
+repository=https://github.com/TerramSolucoesAgronomica/plugins
 # End of mandatory metadata
 
 # Recommended items:
