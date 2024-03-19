@@ -1,0 +1,9 @@
+<qgisMinimumVersion>3.28</qgisMinimumVersion>
+<name>Terram - Processamento Fertilidade</name>
+<description>Krigagem de dados de fertilidade</description>
+<version>0.1</version>
+<author>Igor Viana Souza</author>
+<email>igor.souzavigor@gmail.com</email>
+<about>O plugin proposto visa realizar o processamento de dados relacionados à fertilidade do solo, aplicando o algoritmo de krigagem ordinária de acordo com os padrões estabelecidos pela Terram Soluções Agronômicas.</about>
+<tracker>http://bugs</tracker>
+<repository>https://github.com/TerramSolucoesAgronomica/plugins</repository>
